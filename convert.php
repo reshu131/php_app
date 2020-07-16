@@ -1,5 +1,5 @@
 <h1>Convert Temperature</h1>
-<p>You will need to enter a temperature in Centigrade to be converted to Fahrenheit</p>
+<p>You will need to enter a temperature in Centigrade </p>
 <?php
   if (isset($_GET['submit'])) {
     $c = $_GET['centigrade'];
